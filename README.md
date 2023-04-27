@@ -8,3 +8,5 @@ This approach enables companies to allocate their resources efficiently, improve
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87706830/234728492-36441598-51bd-4773-a194-df602ed97b92.png" alt="RFM">
 </p>
+
+![Segmentation](https://user-images.githubusercontent.com/87706830/234874967-48637fd4-ed84-46ee-9c85-086bed08ee0f.png)
